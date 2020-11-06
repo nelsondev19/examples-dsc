@@ -4,13 +4,15 @@ import Image from "./Image";
 
 function Home() {
   const images = [
-    "https://images.unsplash.com/photo-1548013146-72479768bada?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "https://images.unsplash.com/photo-1532664189809-02133fee698d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-    "https://images.unsplash.com/photo-1524473994769-c1bbbf30e944?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "https://images.unsplash.com/photo-1492136344046-866c85e0bf04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&auto=format&fit=crop&w=800&q=60",
-    "https://images.unsplash.com/photo-1511200016789-e7b694d91f81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-    "https://images.unsplash.com/photo-1513415564515-763d91423bdd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-    "https://images.unsplash.com/photo-1517309246852-c500628fefad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "https://cdn.pixabay.com/photo/2019/09/06/00/32/landscape-4455224__340.jpg",
+    "https://cdn.pixabay.com/photo/2020/10/24/06/04/stream-5680609__340.jpg",
+    "https://cdn.pixabay.com/photo/2020/10/01/17/11/temple-5619197__340.jpg",
+    "https://cdn.pixabay.com/photo/2020/10/30/17/42/paint-5699263__340.jpg",
+    "https://cdn.pixabay.com/photo/2020/11/02/15/39/road-5707070__340.jpg",
+    "https://cdn.pixabay.com/photo/2020/07/22/15/04/river-5429113__340.jpg",
+    "https://cdn.pixabay.com/photo/2015/02/15/03/04/japanese-umbrellas-636870__340.jpg",
+    "https://cdn.pixabay.com/photo/2019/09/06/00/32/landscape-4455224__340.jpg",
+    "https://cdn.pixabay.com/photo/2020/09/06/20/21/cat-5550033__340.jpg"
   ];
   return (
     <Fragment>

@@ -10,7 +10,7 @@
 
 ### Contenido de la charla
 * Lazy Loading
-* Optiminando procesos verificando la conexión de red del usuario
+* Optimizando procesos verificando la conexión de red del usuario
 * División de codigo JavaScript para mejor performance  
 
 ### Recursos utilizados

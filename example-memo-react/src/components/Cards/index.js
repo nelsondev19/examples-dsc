@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { useInfiniteScroll } from "../../hooks/useInfiniteScroll";
+import Card from "./Card";
 
 function Cards() {
   const [Loading, setLoading] = useState(false);
@@ -46,9 +47,7 @@ function Cards() {
     <div className="App">
       <ul>
         {data.map((row) => (
-          <li key={row.id} style={{ background: "orange" }}>
-            {row.name}
-          </li>
+          <Card row={row}/>
         ))}
 
         {Loading && <li>Cargando...</li>}
@@ -59,7 +58,7 @@ function Cards() {
           <li ref={setElement} style={{ background: "transparent" }}>
             Cargando
           </li>
-        )}
+        )} 
       </ul>
     </div>
   );

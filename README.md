@@ -4,7 +4,7 @@
 
   <h2>
  <p align="center">
-  Frontend un mundo infinito
+  Buena practicas en el Frontend
 </p>
   </h2>
 

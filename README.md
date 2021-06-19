@@ -1,6 +1,4 @@
- <p align="center">
-  <img src="nelson.png" alt="banner"/>
-</p>
+
 
   <h2>
  <p align="center">
@@ -27,4 +25,4 @@ https://medium.com/@nelsonher019
 
 DSC Universidad Gerardo Barrios
 
-[Cristhofer Fuentes](https://github.com/chrisft25)
+[Christopher Fuentes](https://github.com/chrisft25)
